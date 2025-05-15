@@ -1,0 +1,5 @@
+﻿  application.cpp
+C:\Users\User\source\repos\application\application.cpp(146,30): warning C4566: character represented by universal-character-name '\u2713' cannot be represented in the current code page (1252)
+C:\Users\User\source\repos\application\application.cpp(151,30): warning C4566: character represented by universal-character-name '\u2717' cannot be represented in the current code page (1252)
+C:\Users\User\source\repos\application\application.cpp(154,26): warning C4566: character represented by universal-character-name '\u2717' cannot be represented in the current code page (1252)
+  application.vcxproj -> C:\Users\User\source\repos\application\x64\Debug\application.exe
